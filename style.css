@@ -1,0 +1,40 @@
+body {
+	background-color: black;
+}
+
+#a {
+	background-color: blue;
+	margin-left: 400px;
+	margin-right: 400px;
+}
+
+#b {
+	background-color: #141414;
+	margin-left: 590px;
+	margin-right: 590px;
+}
+
+a:hover{
+  color: red;
+}
+
+a {
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 40px;
+	margin-bottom: 40px;
+	text-decoration: none;
+}
+
+a2 {
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 50px;
+	
+}
+
+a3 {
+	color: white;
+	font-family: 'Fredoka One', cursive;
+	font-size: 40px;
+}
